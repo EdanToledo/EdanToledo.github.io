@@ -1,0 +1,12 @@
+.DS_Store
+_site/
+.venv/
+__pycache__/
+*.log
+
+# Private CV sources and their Git history are reference material only.
+/CV/
+
+# Local photo source and design previews.
+/edan.png
+/preview/
